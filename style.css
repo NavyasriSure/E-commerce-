@@ -1,0 +1,44 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background: url('dblue.png') no-repeat;
+    background-size: cover;
+}
+.login-form {
+    width: 350px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+    position: absolute;
+    color:aliceblue;
+}
+
+.login-form h1 {
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 15px 0;
+}
+
+.login-form input { 
+    font-size: 15px;
+    width:100%;
+    padding: 15px 9px;
+    border: 0;
+    outline: none;
+    border-radius: 6px;
+}
+
+.login-form button{
+    font-size: 17px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 10px 15px;
+    width: 50%;
+    border-radius: 5px;
+    border: 0;
+}
