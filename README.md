@@ -1,2 +1,2 @@
 # E-commerce
-This is the login page for th e-commerce page
+This is the login page for the-commerce page
